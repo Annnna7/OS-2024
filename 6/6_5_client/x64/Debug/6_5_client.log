@@ -1,0 +1,7 @@
+﻿  client.cpp
+C:\Users\Asus\Desktop\24 инф\6_5_client\client.h(305,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\24 инф\6_5_client\client.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  client.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  6_5_client.vcxproj -> C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\6_5_client.exe

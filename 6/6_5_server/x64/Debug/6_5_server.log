@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\Asus\Desktop\24 инф\6_5_server\server.cpp(291,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  server.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  6_5_server.vcxproj -> C:\Users\Asus\Desktop\24 инф\6_5_server\x64\Debug\6_5_server.exe

@@ -1,0 +1,202 @@
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 1: getData model a [Wed May 29 03:37:47 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 03:37:47 2024
+]
+Request client 1: changeData A 1 2 3 4 5  [Wed May 29 03:38:11 2024
+]
+Answer server Database updated! [Wed May 29 03:38:11 2024
+]
+Request client 1: finish [Wed May 29 03:38:21 2024
+]
+Client 1 disconnect [Wed May 29 03:38:21 2024
+]
+Request client 0: getData model d [Wed May 29 03:38:30 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 03:38:30 2024
+]
+Request client 0: finish [Wed May 29 03:38:33 2024
+]
+Client 0 disconnect [Wed May 29 03:38:33 2024
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 1: getData model 2 [Wed May 29 04:20:46 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 04:20:46 2024
+]
+Request client 0: getData year 2013 [Wed May 29 04:20:50 2024
+]
+Request client 1: finish [Wed May 29 04:20:55 2024
+]
+Client 1 disconnect [Wed May 29 04:20:55 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 04:20:55 2024
+]
+Request client 0: getData year 2013getData year 2013getData year 2013getData year 2013getData year 2013getData year 2013 [Wed May 29 04:20:55 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 04:20:55 2024
+]
+Request client 0: finish [Wed May 29 04:21:00 2024
+]
+Client 0 disconnect [Wed May 29 04:21:00 2024
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 0: getData year 2013 [Wed May 29 06:37:16 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 06:37:16 2024
+]
+Request client 1: getData year 2007 [Wed May 29 06:37:26 2024
+]
+Request client 0: finish [Wed May 29 06:37:29 2024
+]
+Client 0 disconnect [Wed May 29 06:37:29 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 06:37:29 2024
+]
+Request client 1: getData year 2007getData year 2007getData year 2007getData year 2007 [Wed May 29 06:37:29 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 06:37:29 2024
+]
+Request client 1: finish [Wed May 29 06:37:32 2024
+]
+Client 1 disconnect [Wed May 29 06:37:32 2024
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 0: getData year 2016 [Wed May 29 09:01:37 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 09:01:37 2024
+]
+Request client 1: finish [Wed May 29 09:01:42 2024
+]
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 0: getData year 2018 [Wed May 29 10:36:25 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 10:36:25 2024
+]
+Request client 1: getData country urmany [Wed May 29 10:36:38 2024
+]
+Request client 0: finish [Wed May 29 10:36:40 2024
+]
+Client 0 disconnect [Wed May 29 10:36:40 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 10:36:40 2024
+]
+Request client 1: getData country Gurmany [Wed May 29 10:36:56 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 10:36:56 2024
+]
+Request client 1: getData country Gurmany [Wed May 29 10:36:57 2024
+]
+Answer server Автомобиль не найден!
+ [Wed May 29 10:36:57 2024
+]
+Request client 1: getData country Germany [Wed May 29 10:37:19 2024
+]
+Answer server Автомобиль найден: Volkswagen Passat 2007 Germany 1100000 Black
+Автомобиль найден: BMW M5 2003 Germany 1200000 Red
+Автомобиль найден: Audi A4 1994 Germany 1200000 Grey
+ [Wed May 29 10:37:19 2024
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 0: getData year 2008 [Wed May 29 10:50:17 2024
+]
+Answer server Автомобиль найден: Audi Q5 2008 Germany 1400000 Black
+ [Wed May 29 10:50:18 2024
+]
+Request client 0: getData year 2008 [Wed May 29 10:50:18 2024
+]
+Answer server Автомобиль найден: Audi Q5 2008 Germany 1400000 Black
+ [Wed May 29 10:50:18 2024
+]
+Request client 0: finish [Wed May 29 10:50:36 2024
+]
+Client 0 disconnect [Wed May 29 10:50:36 2024
+]
+Request client 1: finish [Wed May 29 10:50:37 2024
+]
+Client 1 disconnect [Wed May 29 10:50:37 2024
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Create process-client: 2
+Request client 0: getData brand  [Fri Apr 25 12:04:28 2025
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 0: getData year  [Fri Apr 25 12:06:01 2025
+]
+-----------------------------------------------------------------
+New session: 
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Create process-client: 1
+Request client 1: getData price  [Fri Apr 25 12:07:33 2025
+]
+-----------------------------------------------------------------
+New session: 
+Create process-client: 0
+Request client 0: getData year  [Fri Apr 25 12:08:19 2025
+]

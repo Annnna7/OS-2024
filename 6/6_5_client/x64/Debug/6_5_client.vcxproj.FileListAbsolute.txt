@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\6_5_client.vcxproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\6_5_client.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\6_5_client.exe
+C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\My65client.client.resources
+C:\Users\Asus\Desktop\24 инф\6_5_client\x64\Debug\6_5_client.vcxproj.GenerateResource.cache
